@@ -1,0 +1,1 @@
+Open https://example.org and verify the page shows "Example Domain".
