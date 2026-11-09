@@ -1,0 +1,1 @@
+Open https://phptravels.com/demo and verify the page shows the heading "PHPTRAVELS live demo: travel booking software, no credit card".
